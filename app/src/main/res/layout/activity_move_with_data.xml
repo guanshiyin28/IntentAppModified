@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.muhammadagisnayudiansyah.intentappmodified.MoveActivityWithData">
+
+    <TextView
+        android:id="@+id/tv_data_received"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/rounded_corner"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="@string/data_received"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_data_received2"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/rounded_corner"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="@string/data_received2"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_data_received3"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/rounded_corner"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="@string/data_received3"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+
+        />
+
+    <TextView
+        android:id="@+id/tv_data_received4"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/rounded_corner"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="@string/data_received4"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_data_received5"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/rounded_corner"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="@string/data_received5"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+
+
+</LinearLayout>
